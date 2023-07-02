@@ -15,8 +15,5 @@ The dataset used for this project is the "Credit Card Fraud Detection" dataset f
 - `creditcard.csv`: The CSV file containing the credit card transaction records, with only the top 198000 rows due to the size.
 - `logistic_regression.ipynb`: A Jupyter Notebook demonstrating the implementation of Logistic Regression for fraud detection.
 - `decision_tree.ipynb`: A Jupyter Notebook demonstrating the implementation of Decision Trees for fraud detection.
-- `random_forest.ipynb`: A Jupyter Notebook demonstrating the implementation of Random Forests for fraud detection.
-- `gradient_boosting.ipynb`: A Jupyter Notebook demonstrating the implementation of Gradient Boosting for fraud detection.
-- `support_vector_machines.ipynb`: A Jupyter Notebook demonstrating the implementation of Support Vector Machines for fraud detection.
 - `neural_network.ipynb`: A Jupyter Notebook demonstrating the implementation of Neural Networks for fraud detection.
-- `anomaly_detection.ipynb`: A Jupyter Notebook demonstrating the implementation of Anomaly Detection for fraud detection.
+- `fraud_detection.ipynb`: A Jupyter Notebook containing the Python code for the project.
