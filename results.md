@@ -3,12 +3,12 @@
 ```
               precision    recall  f1-score   support
 
-  Legitimate       0.91      0.93      0.92        74
-  Fraudulent       0.94      0.91      0.92        80
+  Legitimate       0.91      0.93      0.92        83
+  Fraudulent       0.91      0.89      0.90        71
 
-    accuracy                           0.92       154
-   macro avg       0.92      0.92      0.92       154
-weighted avg       0.92      0.92      0.92       154
+    accuracy                           0.91       154
+   macro avg       0.91      0.91      0.91       154
+weighted avg       0.91      0.91      0.91       154
 ```
 
 
@@ -16,12 +16,12 @@ weighted avg       0.92      0.92      0.92       154
 ```
               precision    recall  f1-score   support
 
-  Legitimate       0.90      0.93      0.91        74
-  Fraudulent       0.94      0.90      0.92        80
+  Legitimate       0.90      0.89      0.90        83
+  Fraudulent       0.88      0.89      0.88        71
 
-    accuracy                           0.92       154
-   macro avg       0.92      0.92      0.92       154
-weighted avg       0.92      0.92      0.92       154
+    accuracy                           0.89       154
+   macro avg       0.89      0.89      0.89       154
+weighted avg       0.89      0.89      0.89       154
 ```
 
 
@@ -29,10 +29,10 @@ weighted avg       0.92      0.92      0.92       154
 ```
               precision    recall  f1-score   support
 
-  Legitimate       0.89      1.00      0.94        74
-  Fraudulent       1.00      0.89      0.94        80
+  Legitimate       0.89      0.96      0.92        83
+  Fraudulent       0.95      0.86      0.90        71
 
-    accuracy                           0.94       154
-   macro avg       0.95      0.94      0.94       154
-weighted avg       0.95      0.94      0.94       154
+    accuracy                           0.92       154
+   macro avg       0.92      0.91      0.91       154
+weighted avg       0.92      0.92      0.92       154
 ```
