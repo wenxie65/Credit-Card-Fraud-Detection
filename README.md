@@ -48,6 +48,6 @@ python fraud_detection.ipynb
 ```
 
 ## Results
-The results of this project can be found in the [results.md](results.md) file. It provides the performance reprot for each model and helps identify the most effective technique for credit card fraud detection.
+The results of this project can be found in the [results.md](results.md) file. It provides the performance report for each model and helps identify the most effective technique for credit card fraud detection.
 
 To view the results, please refer to the [results.md](results.md) file.
